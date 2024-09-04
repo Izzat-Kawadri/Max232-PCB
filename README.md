@@ -1,5 +1,3 @@
-# Max232-PCB
-Design Max232 PCB Using Eagle
 # Max232 PCB Design and Implementation
 
 ## Table of Contents
