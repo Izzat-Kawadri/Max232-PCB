@@ -1,7 +1,7 @@
 # Max232 PCB Design and Implementation
 
 <p align="center">
-  <img src="./schematics/max232.png" alt="Schematic" height="400"/>
+  <img src="./pcb_design/max232 board.png" alt="Schematic" height="400"/>
   <img src="./implementation/4.jpg" alt="PCB Design" height="400"/>
 </p>
 
