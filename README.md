@@ -15,7 +15,11 @@
 7. [Getting Started](#getting-started)
 
 ## Introduction
+## Introduction
 This repository contains the design files, schematic, and implementation details for a printed circuit board (PCB) that utilizes the MAX232 IC. The project is created using the Eagle PCB design software. The MAX232 is commonly used for RS-232 serial communication, and this project demonstrates how to design and implement a PCB for it.
+
+This project was completed as part of a **training project** in the **PCB Design course** that we attended at our university. It aims to teach the fundamentals of PCB design, schematic creation, component placement, routing, and testing through hands-on experience with a real-world application.
+
 
 ## What is MAX232?
 The MAX232 is an integrated circuit (IC) used to convert signals from a TIA-232 (RS-232) serial port to signals suitable for use in TTL-compatible digital logic circuits. It is a dual driver/receiver and typically requires a single 5V power supply. The IC includes capacitive voltage generators to supply the necessary voltage levels for RS-232 communication, making it a popular choice in embedded systems that need serial communication.
