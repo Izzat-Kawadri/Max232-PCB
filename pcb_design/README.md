@@ -1,6 +1,6 @@
 # PCB Design Folder
 
-![PCB Design Image](./max232 board.png)
+![PCB Design Image](./max232-board.png)
 
 ## Overview
 This folder contains the PCB design files for the MAX232 PCB project. The design translates the schematic into a physical board layout, ensuring that all components are placed correctly and connected via copper traces. The PCB is designed using Eagle PCB design software.
