@@ -35,7 +35,6 @@ Below is the Bill of Materials (BOM) for the MAX232 PCB design:
 | 0.1µF Capacitors     | Ceramic Capacitors for Voltage Conversion | 5            | C1, C2, C3, C4, C5 |
 | 16-Pin IC Socket     | Socket for MAX232 IC                     | 1            | IC1              |
 | DB9 Connector        | Female RS-232 Connector                  | 1            | CON1             |
-| 5V Voltage Regulator | Voltage Regulator IC (Optional)          | 1            | 7805             |
 | 10µF Electrolytic Capacitors | For Voltage Regulation            | 2            | C6, C7           |
 | Resistors            | Various Resistors for Circuit Stability  | 3            | R1, R2, R3       |
 | LEDs                 | Power and Signal Indicators              | 2            | LED1, LED2       |
