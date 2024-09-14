@@ -71,7 +71,7 @@ Detailed instructions for each step, including screenshots and additional notes,
 ## Getting Started
 To get started with this project:
 
-1. Clone the repository: `git clone https://github.com/yourusername/Max232-PCB-Design.git`
+1. Clone the repository: `git clone https://github.com/Izzat-Kawadri/Max232-PCB.git`
 2. Open the Eagle project files located in the `schematics` and `pcb_design` directories.
 3. Follow the implementation steps to build your own MAX232 PCB.
 
