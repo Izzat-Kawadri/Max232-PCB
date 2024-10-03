@@ -5,6 +5,10 @@
   <img src="./implementation/4.jpg" alt="PCB Design" height="400"/>
 </p>
 
+- **Project Name:** Max232 PCB Design and Implementation 
+- **Project for:** Introduction to PCB Course 
+- **Project Date:** 2018
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [What is MAX232?](#what-is-max232)
