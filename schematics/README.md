@@ -22,8 +22,6 @@ The schematic includes the following main components:
 - The PCB layout, corresponding to this schematic, can be found in the [PCB Design](../pcb_design) folder.
 - The Bill of Materials (BOM) and component details can be found in the main project’s README file.
 
-## Contribution
-If you find any issues or have suggestions for improving the schematic, feel free to open a pull request or issue.
 
 ---
 
