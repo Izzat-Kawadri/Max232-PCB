@@ -42,8 +42,6 @@ After successful testing, the PCB can be integrated into larger systems or enclo
 - The PCB design and schematic can be found in the [schematic](../schematics) and [pcb_design](../pcb_design) folders.
 - The Bill of Materials (BOM) for component details is available in the main project's README file.
 
-## Contribution
-Feel free to contribute to this folder by adding more implementation resources, testing insights, or visual aids. You can open a pull request or submit an issue if you notice any improvements or updates that should be made.
 
 ---
 
