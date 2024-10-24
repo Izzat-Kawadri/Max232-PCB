@@ -29,8 +29,6 @@ The design was created by following these steps:
 - The corresponding schematic can be found in the [schematic folder](../schematics).
 - The Bill of Materials (BOM) and additional component information are available in the main project’s README file.
 
-## Contribution
-If you wish to contribute by improving the PCB layout or fixing issues, please feel free to open a pull request or issue. Make sure any changes adhere to standard PCB design practices.
 
 ---
 
