@@ -55,7 +55,7 @@ The schematic of the circuit shows how each component is connected to the MAX232
 - **TTL Interface**: Connects to the TTL logic circuit.
 - **Power Supply**: 5V input to power the MAX232 and related components.
   
-You can view the schematic file in the Eagle software or as a PNG image in the repository.
+- **[Schematic README](schematics/README.md)**: Detailed information on the circuit schematic and the files in the `schematics` folder.
 
 ## PCB Design
 The PCB design is a crucial part of the project, ensuring that all components are properly laid out to fit within the desired form factor. The design files are available in the `pcb_design` directory. The PCB layout includes:
@@ -63,6 +63,8 @@ The PCB design is a crucial part of the project, ensuring that all components ar
 - **Component Placement**: Proper placement of the MAX232 IC, capacitors, resistors, and connectors.
 - **Routing**: Signal routing ensuring minimal interference and optimized performance.
 - **Layers**: Single-layer design for simplicity, with ground and power planes.
+
+- **[PCB Design README](pcb_design/README.md)**: Details about the PCB layout and how to work with the design files.
 
 ## Implementation Process
 The implementation process involves the following steps:
@@ -74,7 +76,30 @@ The implementation process involves the following steps:
 5. **Assembly**: Solder the components onto the fabricated PCB.
 6. **Testing**: Test the assembled PCB to ensure that the MAX232 IC is functioning correctly and that RS-232 communication is stable.
 
-Detailed instructions for each step, including screenshots and additional notes, can be found in the `implementation` directory.
+
+- **[Implementation README](implementation/README.md)**: Step-by-step guide on how to assemble and test the PCB.
+
+
+
+## Related README Files
+In addition to this main README, the following folders contain their own `README.md` files, which provide more detailed explanations for each section of the project:
+- **[Schematic Folder](schematics/README.md)**: Information about the schematic files.
+- **[PCB Design Folder](pcb_design/README.md)**: Details about the PCB layout and fabrication files.
+- **[Implementation Folder](implementation/README.md)**: Assembly and testing instructions for the fabricated PCB.
+
+## Credits and Special Thanks
+This project was a team effort, and we would like to acknowledge everyone involved.
+
+### Project Team
+- **[Izzat Kawadri](https://www.linkedin.com/in/izzat-kawadri)** – Circuit Design ,Schematic, Documentation and BOM. 
+- **[Mohammed al Dawaish](#)** – Implementation and Testing
+- **[Yazan Almesh](https://www.linkedin.com/in/yazan-almesh-31a516250/)** – PCB Layout and Routing
+  
+### Special Thanks
+We extend our special thanks to:
+
+- **[Mohamad Msalme , Mohammad Hassan](#)** – For providing expert guidance and mentorship throughout the course.
+- **The Volunteering Team : Tomouh**(#) – For organizing and supporting the introduction to PCB design course.
 
 ## Getting Started
 To get started with this project:
@@ -82,4 +107,11 @@ To get started with this project:
 1. Clone the repository: `git clone https://github.com/Izzat-Kawadri/Max232-PCB.git`
 2. Open the Eagle project files located in the `schematics` and `pcb_design` directories.
 3. Follow the implementation steps to build your own MAX232 PCB.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+This README provides an overview of Max232 PCB design and implementation. For detailed instructions and files, please explore the corresponding folders and their respective `README.md` files.
 
