@@ -98,7 +98,7 @@ This project was a team effort, and we would like to acknowledge everyone involv
 ### Special Thanks
 We extend our special thanks to:
 
-- **[Mohamad Msalme , Mohammad Hassan](#)** – For providing expert guidance and mentorship throughout the course.
+- **[Mohamad Msalme](#) ,[Mohammad Hassan](#)** – For providing expert guidance and mentorship throughout the course.
 - **The Volunteering Team : Tomouh**(#) – For organizing and supporting the introduction to PCB design course.
 
 ## Getting Started
